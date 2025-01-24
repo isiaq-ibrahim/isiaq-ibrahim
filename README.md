@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Android mobile application developer with over four years of experience building Android games and applications.<br>I'm a product designer with over two years of experience creating beautiful user interfaces/experiences for both mobile and web applications.<br>I'm a certified and passionate cybersecurity expert focusing on cryptography, quantum computing, system exploitation and penetration testing, biometric systems, mobile and web application security.
+I'm an Android mobile application developer with over five years of experience building Android games and applications.<br>I'm a product designer with over two years of experience creating beautiful user interfaces/experiences for both mobile and web applications.<br>I'm a certified and passionate cybersecurity expert focusing on digital forensics, cryptography, coding theory, system exploitation and penetration testing, biometric systems, mobile and web application security.
 
 
 ## 🌐 Socials:
